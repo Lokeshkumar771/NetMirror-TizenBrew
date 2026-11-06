@@ -1,0 +1,11 @@
+
+{
+  "name": "netmirror-tv-launcher",
+  "version": "1.0.0",
+  "description": "NetMirror website launcher for TizenBrew",
+  "packageType": "app",
+  "appName": "NetMirror TV",
+  "appPath": "app/index.html",
+  "keys": [],
+  "main": "app/index.html"
+}
